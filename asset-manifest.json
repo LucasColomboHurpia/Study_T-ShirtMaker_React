@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Study_T-ShirtMaker_React/static/css/main.87226a3e.chunk.css",
+    "main.js": "/Study_T-ShirtMaker_React/static/js/main.d33579f1.chunk.js",
+    "main.js.map": "/Study_T-ShirtMaker_React/static/js/main.d33579f1.chunk.js.map",
+    "runtime-main.js": "/Study_T-ShirtMaker_React/static/js/runtime-main.2e3c942f.js",
+    "runtime-main.js.map": "/Study_T-ShirtMaker_React/static/js/runtime-main.2e3c942f.js.map",
+    "static/js/2.3a19e226.chunk.js": "/Study_T-ShirtMaker_React/static/js/2.3a19e226.chunk.js",
+    "static/js/2.3a19e226.chunk.js.map": "/Study_T-ShirtMaker_React/static/js/2.3a19e226.chunk.js.map",
+    "static/js/3.bd91c6ac.chunk.js": "/Study_T-ShirtMaker_React/static/js/3.bd91c6ac.chunk.js",
+    "static/js/3.bd91c6ac.chunk.js.map": "/Study_T-ShirtMaker_React/static/js/3.bd91c6ac.chunk.js.map",
+    "index.html": "/Study_T-ShirtMaker_React/index.html",
+    "static/css/main.87226a3e.chunk.css.map": "/Study_T-ShirtMaker_React/static/css/main.87226a3e.chunk.css.map",
+    "static/js/2.3a19e226.chunk.js.LICENSE.txt": "/Study_T-ShirtMaker_React/static/js/2.3a19e226.chunk.js.LICENSE.txt",
+    "static/media/HoodieBlack.bebd8ce0.jpg": "/Study_T-ShirtMaker_React/static/media/HoodieBlack.bebd8ce0.jpg",
+    "static/media/HoodieBlackC.ada5ff6c.jpg": "/Study_T-ShirtMaker_React/static/media/HoodieBlackC.ada5ff6c.jpg",
+    "static/media/HoodieRed.ab4192d0.jpg": "/Study_T-ShirtMaker_React/static/media/HoodieRed.ab4192d0.jpg",
+    "static/media/HoodieWhiteC.3332f82b.png": "/Study_T-ShirtMaker_React/static/media/HoodieWhiteC.3332f82b.png",
+    "static/media/black.a2945071.png": "/Study_T-ShirtMaker_React/static/media/black.a2945071.png",
+    "static/media/blackPolo.8540fef3.jpg": "/Study_T-ShirtMaker_React/static/media/blackPolo.8540fef3.jpg",
+    "static/media/blue.177880db.png": "/Study_T-ShirtMaker_React/static/media/blue.177880db.png",
+    "static/media/bluePolo.eb9d614f.jpg": "/Study_T-ShirtMaker_React/static/media/bluePolo.eb9d614f.jpg",
+    "static/media/grey.7a569e26.png": "/Study_T-ShirtMaker_React/static/media/grey.7a569e26.png",
+    "static/media/greyC.99f64644.png": "/Study_T-ShirtMaker_React/static/media/greyC.99f64644.png",
+    "static/media/greyPolo.3f116b31.jpg": "/Study_T-ShirtMaker_React/static/media/greyPolo.3f116b31.jpg",
+    "static/media/greyPoloC.735b654b.jpg": "/Study_T-ShirtMaker_React/static/media/greyPoloC.735b654b.jpg",
+    "static/media/red.bae3ed12.png": "/Study_T-ShirtMaker_React/static/media/red.bae3ed12.png",
+    "static/media/white.7ab492ee.png": "/Study_T-ShirtMaker_React/static/media/white.7ab492ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e3c942f.js",
+    "static/js/2.3a19e226.chunk.js",
+    "static/css/main.87226a3e.chunk.css",
+    "static/js/main.d33579f1.chunk.js"
+  ]
+}
